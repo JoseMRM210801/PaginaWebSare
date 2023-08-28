@@ -1,0 +1,21 @@
+@media (min-width: 1920px) {
+  .work-right-text {
+    padding: 150px 150px;
+  }
+}
+
+/* Normal desktop :992px. */
+
+@media (min-width: 350 and (max-width: 1169px) {
+  .slider-content {
+    padding: 146px 0;
+  }
+  .work-right-text {
+    padding: 40px 0;
+  }
+  .work-right-text h2 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+
